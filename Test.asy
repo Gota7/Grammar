@@ -2,6 +2,8 @@ extern fn printf(string format, ... args) -> s32;
 
 using MyLib.Tests.Extended;
 using MyLib.WarioWare.*;
+using MyCoolNumber = u24;
+using MyCoolStruct = MyLib.Long.Pathway.That.Is.Annoying.MyCoolStruct;
 
 namespace AsylumTest.Parsing;
 
